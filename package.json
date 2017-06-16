@@ -1,0 +1,17 @@
+{
+  "name": "symbolic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-plugin-transform-modern-regexp": "0.0.4",
+    "babel-preset-env": "^1.5.2",
+    "immutable": "^3.8.1"
+  }
+}
